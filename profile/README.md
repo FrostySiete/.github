@@ -7,3 +7,5 @@ Please place your game link under the title :D
 Brandon: [Asteroids](https://cs.trinity.edu/~bortiz/bortiz_astroids/)
 
 Hugh: [Asteroids](https://hjc2.github.io/asteroids/)
+
+Seven: [Asteroids](https://sevenaguirre.itch.io/intro-to-game-dev-asteroids)
